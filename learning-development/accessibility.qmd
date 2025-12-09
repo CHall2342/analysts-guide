@@ -22,17 +22,20 @@ If you want to estimate or try to appreciate just how many people might have spe
 
 Contrast:
 
+- Adjacent colours need a 3 to 1 contrast ratio to pass accessibility legislation.
 - [WebAim (comparing two colours)](https://webaim.org/resources/contrastchecker/)
 - [Colour contrast matrix (comparing multiple colours](https://jansensan.github.io/color-contrast-matrix/)
 
 Colour blindness:
 
+- People with colour blindness find it hard to identify certain colours, or to tell some colours apart.
 - [Adobe colour accessibility (gives a pass / fail)](https://color.adobe.com/create/color-accessibility/)
 - [Coblis (simulates colour blindness for uploaded images)](https://www.color-blindness.com/coblis-color-blindness-simulator/)
 - [ColourBlindCheck (R package for simulating colour blindness for a colour palette)](https://github.com/Nowosad/colorblindcheck)
 
 Grey scale:
 
+- When producing content that may be printed, consider how your colours work in black and white.
 - You can often check colours in greyscale by using a print preview and switching the colour mode
 - [ColToGrey function within the DescTools R package](https://andrisignorell.github.io/DescTools/reference/ColToGrey.html)
 
@@ -70,6 +73,7 @@ Voice activation:
 
 
 Cognitive load:
+- Cognitive load refers to the amount of working memory someone uses when they take in new information and transform it into their long-term memory. When a concept is more complex, the audience is less familiar with the given topic, and/or the explanation is presented in more detail, the cognitive load is higher.
 
 - While there isn't commonly used specific assistive technology for aiding users in reducing cognitive load, you can take many steps to reduce the cognitive load for users on your service, making it simpler to use for all. Have a read of [Cognitive Load as a Guide: 12 Spectrums to Improve Your Data Visualisations](https://nightingaledvs.com/cognitive-load-as-a-guide-12-spectrums-to-improve-your-data-visualizations/) as a starting point if you want to learn more.
 
